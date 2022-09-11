@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">AboutMeGuiada</string>
+    <string name="name">Daniel Lopez </string>
+    <string name="yellow_star">Yellow star</string>
+    <string name="bio">Hola, mi nombre Jose Daniel Lopez Rodriguez
+\n\nEstudio en el ITsur y estoy en septimo semestre de la carrera de sistemas computacionales.
+\n\nSoy de Acambaro, Guanajuato
+\nMi color favorito es el rojo
+\n\nSoy muy alto
+</string>
+
+</resources>
